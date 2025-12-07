@@ -7,9 +7,10 @@ export default function Hero() {
             </h1>
 
             <p className="mt-6 text-lg sm:text-xl md:text-2xl text-gray-700 max-w-3xl px-2 md:px-0">
-                Creative and Innovative — Choosing VyralXAgency means choosing a team that understands your brand.
+                Creative and Innovative — Choosing VyralX means choosing a team that understands your brand.
             </p>
 
         </section>
     );
 }
+
